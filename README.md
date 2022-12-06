@@ -1,1 +1,1 @@
-# Implementation-od-Basic-Logic-Gates
+# Implementation-of-Basic-Logic-Gates
